@@ -1,8 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Vesper Launcher</title>
-    <description>Launcher updates</description>
-    <language>ru</language>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Vesper Launcher 1.0.1</title>
+      <sparkle:releaseNotesLink sparkle:signature="WbwBCQN2bupcL/4gyBC0Ux7vLc7KxeYKu/jwlIZTzSt5yixmmVcpONg/A7wIMwS19xNrh+onRPwI6uJ+ZAyPDQ==">https://wertyy111.github.io/Apdeites-Vesper/changelog/1.0.1.md</sparkle:releaseNotesLink>
+      <pubDate>Sat, 21 Mar 2026 22:03:19 +03:00</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <enclosure url="https://github.com/wertyy111/Apdeites-Vesper/releases/download/v1.0.1/VesperLauncherSetup-1.0.1.exe" sparkle:version="1.0.1" sparkle:shortVersionString="1.0.1" length="318298530" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="++FrmLDIWtS6k4DtjSnZMoVQGxtfImMwXh+WwXZwSl6sF9s0PvjkxL3YwMn5fLr44fbMbJCg/9TDuWwzuog7Ag==" />
+    </item>
   </channel>
 </rss>
