@@ -7,10 +7,10 @@
     <item>
       <title>Vesper Launcher 1.0.27</title>
       <sparkle:releaseNotesLink sparkle:signature="NjqruIqUJVk9kpbZVUdkLY7OzBpM5nC8ieLQyIumijsCLAMZBlUGTCaocqXdzCd+GXK83ya8YLtPjzUSbSJWCQ==">https://wertyy111.github.io/Apdeites-Vesper/changelog/1.0.27.md</sparkle:releaseNotesLink>
-      <pubDate>Wed, 01 Apr 2026 21:56:38 +03:00</pubDate>
+      <pubDate>Mon, 30 Mar 2026 20:24:49 +03:00</pubDate>
       <sparkle:version>1.0.27</sparkle:version>
       <sparkle:shortVersionString>1.0.27</sparkle:shortVersionString>
-      <enclosure url="https://github.com/wertyy111/Apdeites-Vesper/releases/download/v1.0.27/VesperLauncherSetup.exe" sparkle:version="1.0.27" sparkle:shortVersionString="1.0.27" length="543456" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="jkPDGNr37rvQ+84Q0cs2PusMusA+Dc+evY0SXNDRq5J9stX20K1QgClRTUVBwFJQToIMAgdCfmyDopyg8JtNCA==" />
+      <enclosure url="https://github.com/wertyy111/Apdeites-Vesper/releases/download/v1.0.27/VesperLauncherSetup-1.0.27.exe" sparkle:version="1.0.27" sparkle:shortVersionString="1.0.27" length="393210048" sparkle:os="windows" type="application/x-msdos-program" sparkle:criticalUpdate="false" sparkle:signature="N7TK5vcASuJ1sjHM3royuWcdoMrPUQtz6/6gyBYrX7SCUqH7EzdBgKXchXJjR/SP3zhP76SAHPDSteLhusTDCw==" />
     </item>
   </channel>
 </rss>
